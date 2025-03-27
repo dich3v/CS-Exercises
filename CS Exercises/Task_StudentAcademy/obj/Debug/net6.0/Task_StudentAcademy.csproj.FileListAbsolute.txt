@@ -1,0 +1,15 @@
+C:\Softuni exercises\CS Exercises\Task_StudentAcademy\bin\Debug\net6.0\Task_StudentAcademy.exe
+C:\Softuni exercises\CS Exercises\Task_StudentAcademy\bin\Debug\net6.0\Task_StudentAcademy.deps.json
+C:\Softuni exercises\CS Exercises\Task_StudentAcademy\bin\Debug\net6.0\Task_StudentAcademy.runtimeconfig.json
+C:\Softuni exercises\CS Exercises\Task_StudentAcademy\bin\Debug\net6.0\Task_StudentAcademy.dll
+C:\Softuni exercises\CS Exercises\Task_StudentAcademy\bin\Debug\net6.0\Task_StudentAcademy.pdb
+C:\Softuni exercises\CS Exercises\Task_StudentAcademy\obj\Debug\net6.0\Task_StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni exercises\CS Exercises\Task_StudentAcademy\obj\Debug\net6.0\Task_StudentAcademy.AssemblyInfoInputs.cache
+C:\Softuni exercises\CS Exercises\Task_StudentAcademy\obj\Debug\net6.0\Task_StudentAcademy.AssemblyInfo.cs
+C:\Softuni exercises\CS Exercises\Task_StudentAcademy\obj\Debug\net6.0\Task_StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Softuni exercises\CS Exercises\Task_StudentAcademy\obj\Debug\net6.0\Task_StudentAcademy.sourcelink.json
+C:\Softuni exercises\CS Exercises\Task_StudentAcademy\obj\Debug\net6.0\Task_StudentAcademy.dll
+C:\Softuni exercises\CS Exercises\Task_StudentAcademy\obj\Debug\net6.0\refint\Task_StudentAcademy.dll
+C:\Softuni exercises\CS Exercises\Task_StudentAcademy\obj\Debug\net6.0\Task_StudentAcademy.pdb
+C:\Softuni exercises\CS Exercises\Task_StudentAcademy\obj\Debug\net6.0\Task_StudentAcademy.genruntimeconfig.cache
+C:\Softuni exercises\CS Exercises\Task_StudentAcademy\obj\Debug\net6.0\ref\Task_StudentAcademy.dll
