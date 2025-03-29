@@ -1,0 +1,15 @@
+C:\Softuni exercises\CS Exercises\Task_SumOfIntegers\bin\Debug\net6.0\Task_SumOfIntegers.exe
+C:\Softuni exercises\CS Exercises\Task_SumOfIntegers\bin\Debug\net6.0\Task_SumOfIntegers.deps.json
+C:\Softuni exercises\CS Exercises\Task_SumOfIntegers\bin\Debug\net6.0\Task_SumOfIntegers.runtimeconfig.json
+C:\Softuni exercises\CS Exercises\Task_SumOfIntegers\bin\Debug\net6.0\Task_SumOfIntegers.dll
+C:\Softuni exercises\CS Exercises\Task_SumOfIntegers\bin\Debug\net6.0\Task_SumOfIntegers.pdb
+C:\Softuni exercises\CS Exercises\Task_SumOfIntegers\obj\Debug\net6.0\Task_SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni exercises\CS Exercises\Task_SumOfIntegers\obj\Debug\net6.0\Task_SumOfIntegers.AssemblyInfoInputs.cache
+C:\Softuni exercises\CS Exercises\Task_SumOfIntegers\obj\Debug\net6.0\Task_SumOfIntegers.AssemblyInfo.cs
+C:\Softuni exercises\CS Exercises\Task_SumOfIntegers\obj\Debug\net6.0\Task_SumOfIntegers.csproj.CoreCompileInputs.cache
+C:\Softuni exercises\CS Exercises\Task_SumOfIntegers\obj\Debug\net6.0\Task_SumOfIntegers.sourcelink.json
+C:\Softuni exercises\CS Exercises\Task_SumOfIntegers\obj\Debug\net6.0\Task_SumOfIntegers.dll
+C:\Softuni exercises\CS Exercises\Task_SumOfIntegers\obj\Debug\net6.0\refint\Task_SumOfIntegers.dll
+C:\Softuni exercises\CS Exercises\Task_SumOfIntegers\obj\Debug\net6.0\Task_SumOfIntegers.pdb
+C:\Softuni exercises\CS Exercises\Task_SumOfIntegers\obj\Debug\net6.0\Task_SumOfIntegers.genruntimeconfig.cache
+C:\Softuni exercises\CS Exercises\Task_SumOfIntegers\obj\Debug\net6.0\ref\Task_SumOfIntegers.dll
